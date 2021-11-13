@@ -1,0 +1,10 @@
+hdfc\FleetArrivals$CustomAuthenticator.class
+hdfc\FleetArrivedResponse.class
+hdfc\FlightInfoExResponse$FlightInfoExResult$Flight.class
+hdfc\FlightInfoExResponse$FlightInfoExResult.class
+hdfc\FleetArrivals.class
+hdfc\FleetArrivedResponse$FleetArrivedResult.class
+hdfc\FleetArrivals$Task.class
+hdfc\KafkaFlightRecord.class
+hdfc\FleetArrivedResponse$FleetArrivedResult$Arrival.class
+hdfc\FlightInfoExResponse.class
